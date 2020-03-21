@@ -1,0 +1,38 @@
+c:\users\lab2\documents\visual studio 2010\projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+c:\users\lab2\documents\visual studio 2010\projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+c:\users\lab2\documents\visual studio 2010\projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\lab2\documents\visual studio 2010\projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+c:\users\lab2\documents\visual studio 2010\projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+c:\users\lab2\documents\visual studio 2010\projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\lab2\documents\visual studio 2010\projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\lab2\documents\visual studio 2010\projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+c:\users\lab2\documents\visual studio 2010\projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+D:\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+D:\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+C:\Users\pc13\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+C:\Users\pc13\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+C:\Users\pc13\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\pc13\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\pc13\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\pc13\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\pc13\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\pc13\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+E:\C# GAME\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+E:\C# GAME\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+E:\USB\Projects\0Programlar\C# GAME\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+E:\USB\Projects\0Programlar\C# GAME\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+E:\USB\Projects\0Programlar\C# GAME\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+E:\USB\Projects\0Programlar\C# GAME\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+E:\USB\Projects\0Programlar\C# GAME\WindowsFormsApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\USB\Projects\0Programlar\C# GAME\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+E:\USB\Projects\0Programlar\C# GAME\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+E:\USB\Projects\0Programlar\C# GAME\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\USB\Projects\0Programlar\C# GAME\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Education\Projects\Projects\#Programlar\C# GAME\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+E:\Education\Projects\Projects\#Programlar\C# GAME\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+E:\Education\Projects\Projects\#Programlar\C# GAME\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csprojAssemblyReference.cache
+E:\Education\Projects\Projects\#Programlar\C# GAME\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+E:\Education\Projects\Projects\#Programlar\C# GAME\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.GenerateResource.cache
+E:\Education\Projects\Projects\#Programlar\C# GAME\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+E:\Education\Projects\Projects\#Programlar\C# GAME\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+E:\Education\Projects\Projects\#Programlar\C# GAME\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.GameForm.resources
